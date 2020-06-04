@@ -1,0 +1,16 @@
+F:\Total\Inha-Tien\Inha.Commons\bin\Debug\netcoreapp2.2\Inha.Commons.deps.json
+F:\Total\Inha-Tien\Inha.Commons\bin\Debug\netcoreapp2.2\Inha.Commons.dll
+F:\Total\Inha-Tien\Inha.Commons\bin\Debug\netcoreapp2.2\Inha.Commons.pdb
+F:\Total\Inha-Tien\Inha.Commons\obj\Debug\netcoreapp2.2\Inha.Commons.AssemblyInfoInputs.cache
+F:\Total\Inha-Tien\Inha.Commons\obj\Debug\netcoreapp2.2\Inha.Commons.AssemblyInfo.cs
+F:\Total\Inha-Tien\Inha.Commons\obj\Debug\netcoreapp2.2\Inha.Commons.dll
+F:\Total\Inha-Tien\Inha.Commons\obj\Debug\netcoreapp2.2\Inha.Commons.pdb
+F:\Total\Inha-Tien\Inha.Commons\obj\Debug\netcoreapp2.2\Inha.Commons.csprojAssemblyReference.cache
+F:\Total\Git\Inha\Inha.Commons\bin\Debug\netcoreapp2.2\Inha.Commons.deps.json
+F:\Total\Git\Inha\Inha.Commons\bin\Debug\netcoreapp2.2\Inha.Commons.dll
+F:\Total\Git\Inha\Inha.Commons\bin\Debug\netcoreapp2.2\Inha.Commons.pdb
+F:\Total\Git\Inha\Inha.Commons\obj\Debug\netcoreapp2.2\Inha.Commons.csprojAssemblyReference.cache
+F:\Total\Git\Inha\Inha.Commons\obj\Debug\netcoreapp2.2\Inha.Commons.AssemblyInfoInputs.cache
+F:\Total\Git\Inha\Inha.Commons\obj\Debug\netcoreapp2.2\Inha.Commons.AssemblyInfo.cs
+F:\Total\Git\Inha\Inha.Commons\obj\Debug\netcoreapp2.2\Inha.Commons.dll
+F:\Total\Git\Inha\Inha.Commons\obj\Debug\netcoreapp2.2\Inha.Commons.pdb

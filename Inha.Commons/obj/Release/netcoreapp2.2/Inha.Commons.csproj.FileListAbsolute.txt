@@ -1,0 +1,8 @@
+F:\Total\Inha-Tien\Inha.Commons\bin\Release\netcoreapp2.2\Inha.Commons.deps.json
+F:\Total\Inha-Tien\Inha.Commons\bin\Release\netcoreapp2.2\Inha.Commons.dll
+F:\Total\Inha-Tien\Inha.Commons\bin\Release\netcoreapp2.2\Inha.Commons.pdb
+F:\Total\Inha-Tien\Inha.Commons\obj\Release\netcoreapp2.2\Inha.Commons.csprojAssemblyReference.cache
+F:\Total\Inha-Tien\Inha.Commons\obj\Release\netcoreapp2.2\Inha.Commons.AssemblyInfoInputs.cache
+F:\Total\Inha-Tien\Inha.Commons\obj\Release\netcoreapp2.2\Inha.Commons.AssemblyInfo.cs
+F:\Total\Inha-Tien\Inha.Commons\obj\Release\netcoreapp2.2\Inha.Commons.dll
+F:\Total\Inha-Tien\Inha.Commons\obj\Release\netcoreapp2.2\Inha.Commons.pdb

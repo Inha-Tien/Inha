@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Inha.Services.Demo</name>
+    </assembly>
+    <members>
+        <member name="M:Inha.Services.Demo.Services.AService.Finalize">
+            <summary>
+                Distroy
+            </summary>
+        </member>
+    </members>
+</doc>
